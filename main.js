@@ -120,6 +120,7 @@ onEvent("donebutton", "click", function( ) {
   setProperty("backbutton", "x", "165");
   setProperty("backbutton", "font-size", "18");
   setProperty("backbutton", "text-color", "white");
+  setProperty("backbutton", "text-color", "white");
 });
 });
 
